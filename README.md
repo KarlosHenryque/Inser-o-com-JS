@@ -21,4 +21,6 @@ CSS3: Estilização básica para os elementos inseridos.
 JavaScript (ES6+): Lógica para manipulação do DOM.
 
 Demostração: 
+
+
 ![image](https://github.com/user-attachments/assets/f2ddfa45-c7de-46a8-a4e4-dda4821ef746)
